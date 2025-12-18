@@ -44,7 +44,7 @@ The main deliverable of this project is an interactive dashboard built with Stre
 - Interactive maps showing restaurant locations.
 
 🔗 **Access the interactive dashboard:**  
-https://fomezero-4repwehrcvp4wptqn8dksc.streamlit.app/
+https://fomezero-be7e5wdxzt8tvdwwnqw7ib.streamlit.app/
 
 ## 6. Conclusion
 This project demonstrates how data analysis can generate relevant strategic insights for a restaurant marketplace. Factors such as cuisine type, service offerings (online delivery and reservations), and geographic location show a strong relationship with customer engagement and ratings.
